@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/nat13dek/KrustyCookies3.git"/>
+		<item value="https://github.com/nat13dek/Krusty-Cookies-2.git"/>
+		<item value="git@github.com:nat13dek/Krusty-Cookies-2.git"/>
+		<item value="NielsenEmil@github.com:nat13dek/Krusty-Cookies-2.git"/>
+		<item value="github.com:nat13dek/Krusty-Cookies-2.git"/>
+		<item value="https://github.com/AndyT94/KrustyKookiesSwedenAB-SARA13.git"/>
+		<item value="https://github.com/JesperGustafsson/KrustyKookies.git"/>
+		<item value="https://github.com/OlofJonsson/KrustyKookies.git"/>
+		<item value="https://github.com/T0bbe/KrustyKookies.git"/>
+		<item value="https://github.com/johanmansson/KrustyKookies.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Emil &lt;Emil@EMIL-LAPTOP&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Emil &lt;Emil@EMIL-LAPTOP&gt;"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="481" key="DIALOG_HEIGHT"/>
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="204" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item value="931" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="462" key="DIALOG_HEIGHT"/>
+		<item value="780" key="DIALOG_X_ORIGIN"/>
+		<item value="368" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
